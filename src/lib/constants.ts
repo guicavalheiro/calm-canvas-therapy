@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = "55SEUNUMERO";
+export const WHATSAPP_NUMBER = "555191376144";
 export const WHATSAPP_MESSAGE = encodeURIComponent(
   "Olá, Gabriel. Gostaria de saber mais sobre o atendimento psicológico."
 );
