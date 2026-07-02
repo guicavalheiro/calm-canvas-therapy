@@ -5,7 +5,7 @@ import { About } from "@/components/site/About";
 import { TCC } from "@/components/site/TCC";
 import { Demandas } from "@/components/site/Demandas";
 import { Ajuda } from "@/components/site/Ajuda";
-import { Depoimentos } from "@/components/site/Depoimentos";
+// import { Depoimentos } from "@/components/site/Depoimentos";
 import { CtaFinal } from "@/components/site/CtaFinal";
 import { Faq } from "@/components/site/Faq";
 import { Footer } from "@/components/site/Footer";
@@ -66,7 +66,7 @@ function Index() {
         <TCC />
         <Demandas />
         <Ajuda />
-        <Depoimentos />
+        {/* <Depoimentos /> */}
         <CtaFinal />
         <Faq />
       </main>

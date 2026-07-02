@@ -67,12 +67,13 @@ export function Demandas() {
                   </li>
                 ))}
               </ul>
-              <p className="mt-6 pt-6 border-t border-border/60 text-sm text-foreground/80 italic">
-                Existe tratamento e apoio psicológico para lidar com isso.
-              </p>
             </article>
           ))}
         </div>
+
+        <p className="mt-10 text-center text-sm text-foreground/80 italic reveal">
+          Existe tratamento e estratégias psicológicas para melhor compreensão dessas questões
+        </p>
       </div>
     </section>
   );

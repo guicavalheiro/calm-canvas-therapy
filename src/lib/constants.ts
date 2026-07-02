@@ -4,7 +4,7 @@ export const WHATSAPP_MESSAGE = encodeURIComponent(
 );
 export const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=${WHATSAPP_MESSAGE}`;
 
-export const INSTAGRAM_URL = "https://instagram.com/";
-export const LINKEDIN_URL = "https://linkedin.com/";
-export const EMAIL = "contato@gabrielregufe.com.br";
-export const CRP = "00/00000";
+export const INSTAGRAM_URL = "https://www.instagram.com/gabrielregufe/";
+export const LINKEDIN_URL = "https://www.linkedin.com/in/gabriel-regufe-555b3a1bb/";
+export const EMAIL = "gabrielregufe@hotmail.com";
+export const CRP = "07/45462";
